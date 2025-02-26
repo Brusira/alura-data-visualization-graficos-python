@@ -11,8 +11,8 @@ O projeto inclui as seguintes funcionalidades principais:
 ## 📂 Arquivos do projeto
 O projeto contém os seguintes arquivos Jupyter Notebook:
 
-1. `Aula_1.ipynb` - Introdução à criação de gráficos com Matplotlib.
-2. `Desafios.ipynb` - Visualizações avançadas com Seaborn.
+1. `Aula_1.ipynb`
+2. `Desafios.ipynb`
 
 ## ✔️ Técnicas e tecnologias utilizadas
 - Python
